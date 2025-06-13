@@ -1,0 +1,128 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Documento sin t&iacute;tulo</title>
+<!-- TemplateEndEditable -->
+<style>
+    .slider-wrapper {
+      width: 300px;
+      margin-bottom: 40px;
+      text-align: center;
+    }
+
+    .slider-container {
+      width: 300px;
+      height: 200px;
+      overflow: hidden;
+      position: relative;
+      margin: 0 auto;
+      border: 1px solid #ccc;
+    }
+
+    .slider-track {
+      display: flex;
+      transition: transform 0.5s ease-in-out;
+    }
+
+    .slider-track img {
+      width: 300px;
+      height: 200px;
+      object-fit: cover;
+      flex-shrink: 0;
+    }
+
+    .buttons {
+      margin-top: 10px;
+    }
+
+    button {
+      padding: 6px 12px;
+      margin: 0 5px;
+      cursor: pointer;
+    }
+
+
+body {
+	background-image: url(file:///C|/xampp/htdocs/ailed_caldo/sitiofinal/Imagen_gaby/08ffe2b583bf62d7a64dde790047a9da.jpg);
+	background-repeat: repeat;
+	background-color: #FFFFFF;
+}
+.Estilo1 {	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+-->
+</style>
+<script type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+</head>
+
+<body onload="MM_preloadImages('file:///C|/xampp/htdocs/ailed_caldo/sitiofinal/Imagen/Imagen2.png','file:///C|/xampp/htdocs/ailed_caldo/sitiofinal/Imagen_gaby/Imagen2.png')">
+<table width="838" border="0">
+  <tr>
+    <td height="100" colspan="5"><img src="../Material/Fondo5.jpg" width="1000" height="320" /></td>
+  </tr>
+  <tr>
+    <td width="167" height="63"><div align="center"><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('inicio','','file:///C|/xampp/htdocs/ailed_caldo/sitiofinal/Imagen/Imagen2.png',1)"></a><a href="../Inicio.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image7','','file:///C|/xampp/htdocs/ailed_caldo/sitiofinal/Imagen_gaby/Imagen2.png',1)"><img src="../Material/botones ppt/boton inicio.png" width="160" height="55" border="0" align="top" /></a></div></td>
+    <td width="163"><div align="center"><a href="../Pasatiempos.html"><img src="../Material/botones ppt/bton pasatiempos2.png" width="160" height="55" border="0" /></a></div></td>
+    <td width="163"><div align="center"></a><a href="../Proyectodevida.html"><img src="../Material/botones ppt/bton proyecto de vida.png" width="160" height="55" border="0" /></a></div></td>
+    <td width="163"><div align="center"><a href="../Viajes.html"><img src="../Material/botones ppt/boton viajes2.png" width="160" height="55" border="0" /></a></div></td>
+    <td width="160"><div align="center"><a href="../Artistas.html"><img src="../Material/botones ppt/boton artistas.png" width="160" height="55" border="0" /></a></div></td>
+  </tr>	
+  <tr>
+    <td height="34" colspan="5"><!-- TemplateBeginEditable name="Titulo" -->
+      <div align="center">Mi Biografia </div>
+    <!-- TemplateEndEditable --></td>
+  </tr>
+  <tr>
+    <td height="646" colspan="5">
+    <!-- TemplateBeginRepeat name="RepeatRegion1" -->
+    <table width="1000" border="0">
+      <tr>
+        <td width="279" height="255"><!-- TemplateBeginEditable name="subtitulo" -->
+          <div align="center">s</div>
+        <!-- TemplateEndEditable --></td>
+        <td width="374"><!-- TemplateBeginEditable name="imagen" -->
+          <div align="center"><img src="../Material/Sore.jpeg" width="400" height="560" /></div>
+        <!-- TemplateEndEditable --></td>
+        <td width="333"><!-- TemplateBeginEditable name="descripcion" -->
+          <div align="center">d</div>
+        <!-- TemplateEndEditable --></td>
+      </tr>
+    </table>
+    <!-- TemplateEndRepeat --></td>
+  </tr>
+  <tr>
+    <td height="162" colspan="5"><p class="Estilo1">&copy; 2025 Mi Sitio Web. Todos los derechos reservados</p>
+    <p class="Estilo1">Alumnos: Eros Alexander Santana Canul y Gabriela Jesimar Betancourt Gil </p>
+    <p class="Estilo1">Docente: Ted Diego Tomas Canul Cauich </p></td>
+  </tr>
+</table>
+</body>
+</html>

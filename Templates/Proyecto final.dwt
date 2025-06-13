@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <style type="text/css">
+<!--
+body {
+	background-color: #F3DBC3;
+}
+-->
+</style><tr>
+    <td height="100" colspan="6"><div align="center"><img src="../Img/fondo4.png" width="1344" height="400" /></div></td>
+  </tr>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Documento sin t&iacute;tulo</title>
+<link rel="stylesheet" href="css\style.css">
+<!-- TemplateEndEditable -->
+
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+</head>
+
+<body>
+<table width="1347" border="0" align="center">
+  <center>
+    <nav class="menu">
+          <ul>
+            <li><a href="../inicio.html">Inicio</a></li>
+           
+            <li><a href="#">Hortalizas</a>
+             <ul class="submenu">
+                <li><a href="../pepino.html"> Pepino </a></li>
+                <li><a href="../calabaza.html"> Calabaza</a></li>               
+              </ul>
+            <li>
+              <a href="#">Productos</i></a>
+               <ul class="submenu">
+                <li><a href="../lacteos.html"> Lacteos </a></li>
+                <li><a href="../carnicos.html"> Carnicos </a></li>
+                <li><a href="../hortofruticulas.html"> Hortofruticulas </a></li>
+              </ul>
+            <li><a href="../cultivo de sandia.html">Cultivo Sandia</a></li> 
+            <li>
+              <a href="#">Galeria</i></a>
+              <ul class="submenu">
+                <li><a href="../productos lacteos.html"> Productos lacteos </a></li>
+                <li><a href="../productos carnicos.html"> Productos carnicos </a></li>
+                <li><a href="../productos hortofruticulas.html"> Productos hortofruticulas </a></li>
+              </ul>
+            </li>
+              <li><a href="../aves de engorda.html">Aves De Engorda</a></li>
+            </li>
+          </ul>
+    </nav>
+  </center>
+  <tr>
+    <td height="34" colspan="6"><!-- TemplateBeginEditable name="Titulo" -->
+      <div align="center">BIENVENIDOS A NUESTRO SITIO WEB </div>
+    <!-- TemplateEndEditable --></td>
+  </tr>
+  <tr>
+    <td height="646" colspan="6">
+    <!-- TemplateBeginRepeat name="RepeatRegion1" -->
+    <table width="1347" border="0">
+      <tr>
+        <td width="399" height="289"><div align="center"><!-- TemplateBeginEditable name="subtitulo" -->
+          <div align="center">s</div>
+        <!-- TemplateEndEditable --></div></td>
+        <td width="481"><div align="center"><!-- TemplateBeginEditable name="imagen" -->
+          <div align="center"></div>
+        <!-- TemplateEndEditable --></div></td>
+        <td width="448"><div align="center"><!-- TemplateBeginEditable name="descripcion" -->
+          <div align="center">d</div>
+        <!-- TemplateEndEditable --></div></td>
+      </tr>
+    </table>
+    <!-- TemplateEndRepeat --></td>
+  </tr>
+ <center> <tr>
+    <td height="162" colspan="6"><p align="center" class="Estilo1">&copy; 2025 Mi Sitio Web. Todos los derechos reservados</p>
+      <p align="center" class="Estilo1">&nbsp;</p>
+      <p align="center" class="Estilo1">Alumnos: </p>
+    <p align="center" class="Estilo1">Eros Alexander Santana Canul _ Gabriela Jesimar Betancourt Gil_ Alfonso Antonio Baez Arceo_ Erika Sarahi Lopez Tuz_ Naomi De Los Angeles Cante Correa </p>
+    <p align="center" class="Estilo1">&nbsp;</p>
+    <p align="center" class="Estilo1">Docente: Ted Diego Tomas Canul Cauich </p></td>
+  </tr></center>
+</table>
+</body>
+</html>
